@@ -31,7 +31,7 @@
     <!-- PHP CODE -->
     <?php
     $host = "datauser.database.windows.net";
-    $user = "Aditya";
+    $user = "aditya";
     $pass = "A@d1ty4&";
     $db = "User";
     try {
